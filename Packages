@@ -1,14 +1,14 @@
 Package: io.cydiaa1.callbar7
-Name: callbar7_1.3-169 
+Name: callbar75
 Version: 1.3-169 
 Size: 1,397,876
 Architecture: iphoneos-arm
-Description: اداة CallBar لاستبدال شاشة المكالمات الواردة المزعجة على الايفون والرد على المكالمات من الشريط العلوي بشكل جميل ومرتب
+Description:  الاداة تستبدال شاشة المكالمات الواردة المزعجة على الايفون والرد على المكالمات من الشريط العلوي بشكل جميل ومرتب
 Maintainer: cydiaa1 <email@provider.com>
 Author: cydiaa1 <email@provider.com>
 Section: التعديلات النهائية
 MD5sum:
 SHA1sum:
 SHA256sum:
-Filename: debs//callbar7.deb
+Filename: debs//io.cydiaa1.callbar7_1.3-169_iphoneos-arm.deb
 
