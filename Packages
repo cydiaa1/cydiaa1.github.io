@@ -15,9 +15,9 @@ Filename: debs//io.cydiaa1.callbar7_1.3-169_iphoneos-arm.deb
 Package: io.cydiaa1.rocket
 Name: rocket
 Version: 2.1.5
-Size: 1,397,876
+Size: 7012
 Architecture: iphoneos-arm
-Description:  الاداة تستبدال شاشة المكالمات الواردة المزعجة على الايفون والرد على المكالمات من الشريط العلوي بشكل جميل ومرتب
+Description:  اضافة مميزات لتطبيق الانستقرام مثل التحميل المقاطع والصور وغيرها الكثير...
 Maintainer: cydiaa1 <ralslami2012@gmail.com.com>
 Author: Majd Alfhaily <freemanrepo@me.com>
 Section: التعديلات النهائية
