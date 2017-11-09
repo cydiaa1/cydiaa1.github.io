@@ -28,3 +28,20 @@ SHA256sum:
 Filename: debs//io.cydiaa1.rocket_2.1.5_iphoneos-arm.deb
 Tag: purpose::extension, role::enduser, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10
 Icon: file:///Library/Application%20Support/Rocket/Rocket.bundle/rocket-icon-title@2x.png
+
+Package: io.cydiaa1.scothman
+Name: scothman
+Version: 11.2-8
+Size: 9512
+Architecture: iphoneos-arm
+Description:  إضافة مميزات عديدة لتطبيق السناب شات...
+Maintainer: cydiaa1 <ralslami2012@gmail.com.com>
+Author: Othman Alomiry <oooom24@gmail.com>
+Section: التعديلات النهائية
+Depends: mobilesubstrate, firmware (>= 7.0)
+MD5sum:
+SHA1sum:
+SHA256sum:
+Filename: debs//io.cydiaa1.scothman_11.2-8_iphoneos-arm.deb
+Tag: purpose::extension, compatible::ios9, compatible::ios10
+Icon: file:///Library/Application%20Support/SnapOthman/SCOthmanResources.bundle/SCOthmanIcon.png
