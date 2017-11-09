@@ -13,9 +13,9 @@ SHA256sum:
 Filename: debs//io.cydiaa1.callbar7_1.3-169_iphoneos-arm.deb
 
 Package: io.cydiaa1.rocket
-Name: rocket
+Name: Rocket for Instagram
 Version: 2.1.5
-Size: 7012
+Size: 3124998
 Architecture: iphoneos-arm
 Description:  اضافة مميزات لتطبيق الانستقرام مثل التحميل المقاطع والصور وغيرها الكثير...
 Maintainer: cydiaa1 <ralslami2012@gmail.com.com>
@@ -32,7 +32,7 @@ Icon: file:///Library/Application%20Support/Rocket/Rocket.bundle/rocket-icon-tit
 Package: io.cydiaa1.scothman
 Name: scothman
 Version: 11.2-8
-Size: 9512
+Size: 4443182
 Architecture: iphoneos-arm
 Description:  إضافة مميزات عديدة لتطبيق السناب شات...
 Maintainer: cydiaa1 <ralslami2012@gmail.com.com>
