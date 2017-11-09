@@ -12,3 +12,19 @@ SHA1sum:
 SHA256sum:
 Filename: debs//io.cydiaa1.callbar7_1.3-169_iphoneos-arm.deb
 
+Package: io.cydiaa1.rocket
+Name: rocket
+Version: 2.1.5
+Size: 1,397,876
+Architecture: iphoneos-arm
+Description:  الاداة تستبدال شاشة المكالمات الواردة المزعجة على الايفون والرد على المكالمات من الشريط العلوي بشكل جميل ومرتب
+Maintainer: cydiaa1 <ralslami2012@gmail.com.com>
+Author: Majd Alfhaily <freemanrepo@me.com>
+Section: التعديلات النهائية
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), com.rpetrich.rocketbootstrap, me.alfhaily.rocket.lib (>= 1.0.1)
+MD5sum:
+SHA1sum:
+SHA256sum:
+Filename: debs//io.cydiaa1.rocket_2.1.5_iphoneos-arm.deb
+Tag: purpose::extension, role::enduser, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10
+Icon: file:///Library/Application%20Support/Rocket/Rocket.bundle/rocket-icon-title@2x.png
